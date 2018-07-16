@@ -9,6 +9,7 @@ class CarCar{
 		speed=speed-value;
 	}
 	
+	
 }
 class dingdan{
 	String name;
